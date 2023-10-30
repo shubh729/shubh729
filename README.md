@@ -1,4 +1,4 @@
-[![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif)]
+![MasterHead](https://images.squarespace-cdn.com/content/v1/6047ca3c6bae4359c8fdca85/1615321348433-U0P7ALKF0CLK5X6EJKT7/Google_Cloud_DataAnalytics-Bannergif.gif)]
 <h1 align="center">Hi 👋, I'm Shubham Jawla</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
