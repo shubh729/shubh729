@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/84115928/142569072-22fdc7ac-5815-4e96-b84d-f918a85d47ec.gif)
+<img align="centre" alt="Coding" width="650" src="https://blog.imarticus.org/wp-content/uploads/2020/05/pa1.gif">
 <h1 align="center">Hi 👋, I'm Shubham Jawla</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
